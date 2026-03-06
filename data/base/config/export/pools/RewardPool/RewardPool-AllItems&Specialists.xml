@@ -4,7 +4,16 @@
 <Group>
     <ModOp Type="add" GUID="43037,82598" Path="/Values/RewardPool/ItemsPool">
     <Item>
-        <ItemLink>1600000000</ItemLink>
+        <ItemLink>1600000029</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000100</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000102</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000224</ItemLink>
     </Item>
 
     </ModOp>

@@ -6,10 +6,9 @@
 
 ###  
 #   GUID-Ranges:  
-#   1600000xxx - 1600000xxx 
-#
-#
-#
+#   1600000029 - 1600000030 
+#   1600000224 - 1600000225
+#   1600000100 - 1600000103
 #
 #
 #
@@ -27,17 +26,18 @@
 
 <!-- Common Specialists -->
 <Group>
-    <Include File="items-common/Test-C.xml" />
+    <Include File="items-common/CaptianMoreSlots-C.xml" />
 </Group>
 
 <!-- Rare Specialists -->
 <Group>
-
+    <Include File="items-rare/CaptianHealthByLessSlots-R.xml"/>
 </Group>
 
 <!-- Epic Specialists -->
 <Group>
-
+    <Include File="items-epic/CaptianArchersRange-E.xml" />
+    <Include File="items-epic/CaptianMoreSlots-E.xml" />
 </Group>
 
 <!-- Legendary Specialists -->
