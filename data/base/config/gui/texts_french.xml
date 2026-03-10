@@ -1,6 +1,6 @@
 <ModOps>
 
-  <!-- Specialist CaptianMoreSlots-C -->
+  <!-- Specialist CaptainMoreSlots-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -63,4 +63,22 @@
       </Text>
     </ModOp>
   </Group>
+
+  <!-- Specialist CaptianArcherRange-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Corde solide</Text>
+          <LineId>1600000228</LineId> <!-- <GUID>1600000228</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Une corde solide maintient ce navire à distance.</Text>
+          <LineId>1600000229</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+
 </ModOps>

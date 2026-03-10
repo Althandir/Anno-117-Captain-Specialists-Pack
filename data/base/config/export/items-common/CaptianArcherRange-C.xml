@@ -1,21 +1,21 @@
 <ModOps>
-<!-- Item Definition GUID: 1600000029 - 1600000030 | LineID:1600000029 - 1600000030 -->
+<!-- Item Definition GUID: 1600000228 - 1600000229 | LineID:1600000228 - 1600000229 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000029</GUID>
-            <Name>CaptianMoreSlots-C</Name>
-            <IconFilename>data/base/graphics/icons/celtic_male_moreslotsc.png</IconFilename>
-            <InfoDescription>1600000030</InfoDescription>
+            <GUID>1600000228</GUID>
+            <Name>CaptianArcherRange-C</Name>
+            <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+            <InfoDescription>1600000229</InfoDescription>
           </Standard>
           <Effect>
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000030</GUID>
+                <GUID>1600000229</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -30,14 +30,14 @@
             <Niche>Nautics</Niche> 
             <ItemType>Captains</ItemType>
             <TradePrice>5000</TradePrice>
-            <BarkPool>83324</BarkPool> <!-- <GUID>83324</GUID> -->
+            <BarkPool>0</BarkPool> <!-- <GUID>0</GUID> -->
             <Rarity>Common</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000029</OasisId>
+            <OasisId>1600000228</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -52,35 +52,44 @@
             <Template>ShipBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000030</GUID>
-                    <Name>CaptianMoreSlots-C ShipBuff</Name>
-                    <IconFilename>data/base/graphics/icons/celtic_male_moreslotsc.png</IconFilename>
+                    <GUID>1600000229</GUID>
+                    <Name>CaptianArcherRange-C ShipBuff</Name>
+                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                 </Standard>
                 <HealthUpgrade>
                   <BaseHealthUpgrade>
-                    <Value>-10</Value>
+                    <Value>0</Value>
                     <Percental>1</Percental>
                   </BaseHealthUpgrade>
                 </HealthUpgrade>
                 <VehicleUpgrade/>
                 <TradeShipUpgrade/>
                 <Text>
-                    <OasisId>1600000029</OasisId>
+                    <OasisId>1600000228</OasisId>
                 </Text>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <MovementUpgrade>
-                  <BuffReduceCargoImpactUpgrade>
-                    <Value>-25</Value>
+                  <BuffBaseSpeedUpgrade>
+                    <Value>0</Value>
                     <Percental>0</Percental>
-                  </BuffReduceCargoImpactUpgrade>
+                  </BuffBaseSpeedUpgrade>
                 </MovementUpgrade>
-                <MaintenanceUpgrade/>
+                <MaintenanceUpgrade>
+                  <WorkforceMaintenanceFactorUpgrade>
+                    <Value>0</Value>
+                    <Percental>1</Percental>
+                  </WorkforceMaintenanceFactorUpgrade>
+                  <MaintenanceFactorUpgrade>
+                    <Value>0</Value>
+                    <Percental>1</Percental>
+                  </MaintenanceFactorUpgrade>
+                </MaintenanceUpgrade>
                 <UnitUpgrade/>
                 <ItemContainerUpgrade>
                   <SlotCountUpgrade>
-                    <Value>2</Value>
+                    <Value>0</Value>
                     <Percental>0</Percental>
                   </SlotCountUpgrade>
                 </ItemContainerUpgrade>

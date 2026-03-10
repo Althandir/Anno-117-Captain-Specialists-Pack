@@ -9,7 +9,7 @@
 #   1600000029 - 1600000030 
 #   1600000224 - 1600000225
 #   1600000100 - 1600000103
-#
+#   1600000228 - 1600000229
 #
 #
 #
@@ -26,11 +26,12 @@
 
 <!-- Common Specialists -->
 <Group>
-    <Include File="items-common/CaptianMoreSlots-C.xml" />
+    <Include File="items-common/CaptianArcherRange-C.xml" />
 </Group>
 
 <!-- Rare Specialists -->
 <Group>
+    <Include File="items-rare/CaptainMoreSlots-R.xml" />
     <Include File="items-rare/CaptianHealthByLessSlots-R.xml"/>
 </Group>
 
