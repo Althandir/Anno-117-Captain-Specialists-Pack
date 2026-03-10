@@ -1,21 +1,21 @@
 <ModOps>
-<!-- Item Definition GUID:1600000100 - 1600000101 | LineID:1600000100 - 1600000101 -->
+<!-- Item Definition GUID: 1600000228 - 1600000229 | LineID:1600000228 - 1600000229 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000100</GUID>
-            <Name>Captian ArchersRange E</Name>
-            <IconFilename>data/base/graphics/icons/celtic_male_captianArchersRangeE.png</IconFilename>
-            <InfoDescription>1600000101</InfoDescription>
+            <GUID>1600000228</GUID>
+            <Name>CaptainArcherRange-C</Name>
+            <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+            <InfoDescription>1600000229</InfoDescription>
           </Standard>
           <Effect>
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000101</GUID>
+                <GUID>1600000229</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -29,15 +29,15 @@
             <Allocation>Ship</Allocation>
             <Niche>Nautics</Niche> 
             <ItemType>Captains</ItemType>
-            <TradePrice>62000</TradePrice>
-            <BarkPool>90845</BarkPool> <!-- <GUID>90845</GUID> -->
-            <Rarity>Epic</Rarity> 
+            <TradePrice>5000</TradePrice>
+            <BarkPool>0</BarkPool> <!-- <GUID>0</GUID> -->
+            <Rarity>Common</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000100</OasisId>
+            <OasisId>1600000228</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -52,33 +52,47 @@
             <Template>ShipBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000101</GUID>
-                    <Name>Captian ArchersRange E ShipBuff</Name>
-                    <IconFilename>data/base/graphics/icons/celtic_male_captianArchersRangeE.png</IconFilename>
+                    <GUID>1600000229</GUID>
+                    <Name>CaptainArcherRange-C ShipBuff</Name>
+                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                 </Standard>
-                <HealthUpgrade/>
+                <HealthUpgrade>
+                  <BaseHealthUpgrade>
+                    <Value>0</Value>
+                    <Percental>1</Percental>
+                  </BaseHealthUpgrade>
+                </HealthUpgrade>
                 <VehicleUpgrade/>
                 <TradeShipUpgrade/>
                 <Text>
-                    <OasisId>1600000100</OasisId>
+                    <OasisId>1600000228</OasisId>
                 </Text>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <MovementUpgrade>
                   <BuffBaseSpeedUpgrade>
-                    <Value>10</Value>
+                    <Value>0</Value>
                     <Percental>0</Percental>
                   </BuffBaseSpeedUpgrade>
                 </MovementUpgrade>
-                <MaintenanceUpgrade/>
-                <UnitUpgrade>
-                  <DistanceAttackRangeArcherModulePercentualUpgrade>
-                    <Value>35</Value>
+                <MaintenanceUpgrade>
+                  <WorkforceMaintenanceFactorUpgrade>
+                    <Value>0</Value>
+                    <Percental>1</Percental>
+                  </WorkforceMaintenanceFactorUpgrade>
+                  <MaintenanceFactorUpgrade>
+                    <Value>0</Value>
+                    <Percental>1</Percental>
+                  </MaintenanceFactorUpgrade>
+                </MaintenanceUpgrade>
+                <UnitUpgrade/>
+                <ItemContainerUpgrade>
+                  <SlotCountUpgrade>
+                    <Value>0</Value>
                     <Percental>0</Percental>
-                  </DistanceAttackRangeArcherModulePercentualUpgrade>
-                </UnitUpgrade>
-                <ItemContainerUpgrade/>
+                  </SlotCountUpgrade>
+                </ItemContainerUpgrade>
                 <SellableUpgrade/>
             </Values>
         </Asset>
