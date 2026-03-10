@@ -1,0 +1,172 @@
+<ModOps>
+<!-- Item Definition GUID: 1600000488 - 1600000490 | LineID:1600000488 - 1600000490 -->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>ItemWithBoost</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000488</GUID>
+            <Name>CaptainMoreSlots-L</Name>
+            <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+            <InfoDescription>1600000489</InfoDescription>
+          </Standard>
+          <Effect>
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>1600000489</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff -->
+              <Item>
+                <GUID>38995</GUID>
+              </Item>
+            </Targets>
+            <HideInGovernorsBar>1</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Allocation>Ship</Allocation>
+            <Niche>Nautics</Niche> 
+            <ItemType>Captains</ItemType>
+            <TradePrice>500000</TradePrice>
+            <BarkPool>0</BarkPool> <!-- <GUID>0</GUID> -->
+            <Rarity>Legendary</Rarity> 
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>1600000488</OasisId>
+          </Text>
+
+          <ItemWithBoost>
+            <BoostCondition>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Values>
+                <PreConditionList>
+                  <Condition>
+                    <Template>ConditionTradeRouteCount</Template>
+                    <Values>
+                      <Condition/>
+                      <ConditionTradeRouteCount>
+                        <TradeRouteCount>20</TradeRouteCount>
+                      </ConditionTradeRouteCount>
+                    </Values>
+                  </Condition>
+                </PreConditionList>
+              </Values>
+            </BoostCondition>
+            <BoostBuffs>
+              <Item>
+                <GUID>1600000490</GUID>
+              </Item>
+            </BoostBuffs>
+            <BoostHint>1600000490</BoostHint>
+          </ItemWithBoost>
+
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Buff Definitions-->
+  <Group>
+
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>ShipBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000489</GUID>
+                    <Name>CaptainMoreSlots-L ShipBuff</Name>
+                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                </Standard>
+                <HealthUpgrade>
+                  <BaseHealthUpgrade>
+                    <Value>25</Value>
+                    <Percental>1</Percental>
+                  </BaseHealthUpgrade>
+                </HealthUpgrade>
+                <VehicleUpgrade/>
+                <TradeShipUpgrade>
+                  <LoadingSpeedUpgrade>
+                    <Value>25</Value>
+                    <Percental>1</Percental>
+                  </LoadingSpeedUpgrade>
+                </TradeShipUpgrade>
+                <Text>
+                    <OasisId>1600000488</OasisId>
+                </Text>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <MovementUpgrade>
+                  <BuffReduceCargoImpactUpgrade>
+                    <Value>25</Value>
+                    <Percental>0</Percental>
+                  </BuffReduceCargoImpactUpgrade>
+                </MovementUpgrade>
+                <MaintenanceUpgrade/>
+                <UnitUpgrade/>
+                <ItemContainerUpgrade>
+                  <SlotCountUpgrade>
+                    <Value>3</Value>
+                    <Percental>0</Percental>
+                  </SlotCountUpgrade>
+                </ItemContainerUpgrade>
+                <SellableUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>ShipBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000490</GUID>
+                    <Name>CaptainMoreSlots-L Boosted ShipBuff</Name>
+                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                </Standard>
+                <HealthUpgrade>
+                  <BaseHealthUpgrade>
+                    <Value>50</Value>
+                    <Percental>1</Percental>
+                  </BaseHealthUpgrade>
+                </HealthUpgrade>
+                <VehicleUpgrade/>
+                <TradeShipUpgrade>
+                  <LoadingSpeedUpgrade>
+                    <Value>50</Value>
+                    <Percental>1</Percental>
+                  </LoadingSpeedUpgrade>
+                </TradeShipUpgrade>
+                <Text>
+                    <OasisId>1600000488</OasisId>
+                </Text>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <MovementUpgrade>
+                  <BuffReduceCargoImpactUpgrade>
+                    <Value>50</Value>
+                    <Percental>0</Percental>
+                  </BuffReduceCargoImpactUpgrade>
+                </MovementUpgrade>
+                <MaintenanceUpgrade/>
+                <UnitUpgrade/>
+                <ItemContainerUpgrade>
+                  <SlotCountUpgrade>
+                    <Value>3</Value>
+                    <Percental>0</Percental>
+                  </SlotCountUpgrade>
+                </ItemContainerUpgrade>
+                <SellableUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+
+  </Group>
+
+</ModOps>

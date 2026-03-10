@@ -46,7 +46,7 @@
 
   <!-- Buff Definitions-->
   <Group>
-    <!-- BuildingEffect Definition -->
+    
     <ModOp Type="addNextSibling" GUID="80193">
         <Asset>
             <Template>ShipBuff</Template>
@@ -58,7 +58,7 @@
                 </Standard>
                 <HealthUpgrade>
                   <BaseHealthUpgrade>
-                    <Value>60</Value>
+                    <Value>50</Value>
                     <Percental>1</Percental>
                   </BaseHealthUpgrade>
                 </HealthUpgrade>

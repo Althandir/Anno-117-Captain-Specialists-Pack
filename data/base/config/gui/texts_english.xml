@@ -10,7 +10,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>"A little less armor here and who needs extra sails? We have cargo to ship and aren't sitting geese."</Text>
+          <Text>"We have cargo to ship and aren't sitting geese."</Text>
           <LineId>1600000030</LineId> 
       </Text>
     </ModOp>
@@ -69,13 +69,34 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Strong Rope</Text>
+          <Text>PlaceholderName</Text>
           <LineId>1600000228</LineId> <!-- <GUID>1600000228</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>A tough rope keeps this ship at bay.</Text>
+          <Text>PlaceholderText</Text>
           <LineId>1600000229</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist CaptainMoreSlots-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000488</LineId> <!-- <GUID>1600000228</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000489</LineId> 
+      </Text>
+      <!-- Boosted Hint -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000490</LineId> 
       </Text>
     </ModOp>
   </Group>

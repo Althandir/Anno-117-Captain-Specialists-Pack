@@ -46,7 +46,7 @@
 
   <!-- Buff Definitions-->
   <Group>
-    <!-- BuildingEffect Definition -->
+    
     <ModOp Type="addNextSibling" GUID="80193">
         <Asset>
             <Template>ShipBuff</Template>

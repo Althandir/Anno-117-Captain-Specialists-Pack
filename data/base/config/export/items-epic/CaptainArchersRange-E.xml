@@ -46,7 +46,7 @@
 
   <!-- Buff Definitions-->
   <Group>
-    <!-- BuildingEffect Definition -->
+    
     <ModOp Type="addNextSibling" GUID="80193">
         <Asset>
             <Template>ShipBuff</Template>
@@ -74,7 +74,7 @@
                 <MaintenanceUpgrade/>
                 <UnitUpgrade>
                   <DistanceAttackRangeArcherModulePercentualUpgrade>
-                    <Value>35</Value>
+                    <Value>40</Value>
                     <Percental>0</Percental>
                   </DistanceAttackRangeArcherModulePercentualUpgrade>
                 </UnitUpgrade>

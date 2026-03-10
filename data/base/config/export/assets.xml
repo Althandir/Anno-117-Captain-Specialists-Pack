@@ -10,7 +10,7 @@
 #   1600000224 - 1600000225
 #   1600000100 - 1600000103
 #   1600000228 - 1600000229
-#
+#   1600000488 - 1600000490 
 #
 #
 ###
@@ -43,7 +43,7 @@
 
 <!-- Legendary Specialists -->
 <Group>
-
+    <Include File="items-legendary/CaptainMoreSlots-L.xml" />
 </Group>
 
 <!-- Add to Pools -->
