@@ -7,8 +7,8 @@
         <Values>
           <Standard>
             <GUID>1600000100</GUID>
-            <Name>Captian ArchersRange E</Name>
-            <IconFilename>data/base/graphics/icons/celtic_male_captianArchersRangeE.png</IconFilename>
+            <Name>Captain ArchersRange E</Name>
+            <IconFilename>data/base/graphics/icons/celtic_male_CaptainArchersRangeE.png</IconFilename>
             <InfoDescription>1600000101</InfoDescription>
           </Standard>
           <Effect>
@@ -53,8 +53,8 @@
             <Values>
                 <Standard>
                     <GUID>1600000101</GUID>
-                    <Name>Captian ArchersRange E ShipBuff</Name>
-                    <IconFilename>data/base/graphics/icons/celtic_male_captianArchersRangeE.png</IconFilename>
+                    <Name>Captain ArchersRange E ShipBuff</Name>
+                    <IconFilename>data/base/graphics/icons/celtic_male_CaptainArchersRangeE.png</IconFilename>
                 </Standard>
                 <HealthUpgrade/>
                 <VehicleUpgrade/>

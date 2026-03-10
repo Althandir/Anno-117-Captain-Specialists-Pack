@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000228</GUID>
-            <Name>CaptianArcherRange-C</Name>
+            <Name>CaptainArcherRange-C</Name>
             <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
             <InfoDescription>1600000229</InfoDescription>
           </Standard>
@@ -53,7 +53,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000229</GUID>
-                    <Name>CaptianArcherRange-C ShipBuff</Name>
+                    <Name>CaptainArcherRange-C ShipBuff</Name>
                     <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                 </Standard>
                 <HealthUpgrade>

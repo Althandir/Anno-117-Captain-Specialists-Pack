@@ -1,5 +1,5 @@
 {
-  "ModID": "althandir-altdolphin-captian-specialists-pack",
+  "ModID": "althandir-altdolphin-Captain-specialists-pack",
   "Version": "1.0.0",
   "Anno": 8,
   "IncompatibleIds": null,
@@ -17,30 +17,30 @@
   },
 
   "ModName": {
-    "English": "Captian Specialists Pack by Althandir / Altdolphin",
+    "English": "Captain Specialists Pack by Althandir / Altdolphin",
     "German": "Kapitäne Spezialisten Pack von Althandir / Altdolphin",
-    "French": "[EN] Captian Specialists Pack by Althandir / Altdolphin",
-    "Italian": "[EN] Captian Specialists Pack by Althandir / Altdolphin",
-    "Polish": "[EN] Captian Specialists Pack by Althandir / Altdolphin",
-    "Spanish": "[EN] Captian Specialists Pack by Althandir / Altdolphin",
-    "Chinese": "[EN] Captian Specialists Pack by Althandir / Altdolphin",
-    "Japanese": "[EN] Captian Specialists Pack by Althandir / Altdolphin",
-    "Korean": "[EN] Captian Specialists Pack by Althandir / Altdolphin",
-    "Taiwanese": "[EN] Captian Specialists Pack by Althandir / Altdolphin",
-    "Russian": "[EN] Captian Specialists Pack by Althandir / Altdolphin"
+    "French": "[EN] Captain Specialists Pack by Althandir / Altdolphin",
+    "Italian": "[EN] Captain Specialists Pack by Althandir / Altdolphin",
+    "Polish": "[EN] Captain Specialists Pack by Althandir / Altdolphin",
+    "Spanish": "[EN] Captain Specialists Pack by Althandir / Altdolphin",
+    "Chinese": "[EN] Captain Specialists Pack by Althandir / Altdolphin",
+    "Japanese": "[EN] Captain Specialists Pack by Althandir / Altdolphin",
+    "Korean": "[EN] Captain Specialists Pack by Althandir / Altdolphin",
+    "Taiwanese": "[EN] Captain Specialists Pack by Althandir / Altdolphin",
+    "Russian": "[EN] Captain Specialists Pack by Althandir / Altdolphin"
   },
   "Description": {
-    "English": "Adds new Captians to Anno 117.",
+    "English": "Adds new Captains to Anno 117.",
     "German": "Fügt neue Kapitäne zu Anno 117 hinzu.",
-    "French": "[EN] Adds new Captians to Anno 117.",
-    "Italian": "[EN] Adds new Captians to Anno 117.",
-    "Polish": "[EN] Adds new Captians to Anno 117.",
-    "Spanish": "[EN] Adds new Captians to Anno 117.",
-    "Chinese": "[EN] Adds new Captians to Anno 117.",
-    "Japanese": "[EN] Adds new Captians to Anno 117.",
-    "Korean": "[EN] Adds new Captians to Anno 117.",
-    "Taiwanese": "[EN] Adds new Captians to Anno 117.",
-    "Russian": "[EN] Adds new Captians to Anno 117."
+    "French": "[EN] Adds new Captains to Anno 117.",
+    "Italian": "[EN] Adds new Captains to Anno 117.",
+    "Polish": "[EN] Adds new Captains to Anno 117.",
+    "Spanish": "[EN] Adds new Captains to Anno 117.",
+    "Chinese": "[EN] Adds new Captains to Anno 117.",
+    "Japanese": "[EN] Adds new Captains to Anno 117.",
+    "Korean": "[EN] Adds new Captains to Anno 117.",
+    "Taiwanese": "[EN] Adds new Captains to Anno 117.",
+    "Russian": "[EN] Adds new Captains to Anno 117."
   },
   "Category": {
     "English": "Gameplay",

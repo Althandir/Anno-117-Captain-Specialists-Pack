@@ -26,19 +26,19 @@
 
 <!-- Common Specialists -->
 <Group>
-    <Include File="items-common/CaptianArcherRange-C.xml" />
+    <Include File="items-common/CaptainArcherRange-C.xml" />
 </Group>
 
 <!-- Rare Specialists -->
 <Group>
     <Include File="items-rare/CaptainMoreSlots-R.xml" />
-    <Include File="items-rare/CaptianHealthByLessSlots-R.xml"/>
+    <Include File="items-rare/CaptainHealthByLessSlots-R.xml"/>
 </Group>
 
 <!-- Epic Specialists -->
 <Group>
-    <Include File="items-epic/CaptianArchersRange-E.xml" />
-    <Include File="items-epic/CaptianMoreSlots-E.xml" />
+    <Include File="items-epic/CaptainArchersRange-E.xml" />
+    <Include File="items-epic/CaptainMoreSlots-E.xml" />
 </Group>
 
 <!-- Legendary Specialists -->

@@ -16,7 +16,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist CaptianHealthByLessSlots-R -->
+  <!-- Specialist CaptainHealthByLessSlots-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -32,7 +32,7 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist CaptianArchersRange-E -->
+  <!-- Specialist CaptainArchersRange-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -48,7 +48,7 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist CaptianMoreSlots-E -->
+  <!-- Specialist CaptainMoreSlots-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -64,7 +64,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist CaptianArcherRange-C -->
+  <!-- Specialist CaptainArcherRange-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
