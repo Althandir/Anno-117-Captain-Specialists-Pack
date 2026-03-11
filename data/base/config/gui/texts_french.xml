@@ -95,11 +95,30 @@
       </Text>
       <!-- Boosted Hint -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>[PH] Own 20x Traderoutes PlaceholderText</Text>
           <LineId>1600000490</LineId> 
       </Text>
     </ModOp>
   </Group>
 
-
+  <!-- Specialist CaptainLessSlots-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000491</LineId> <!-- <GUID>1600000491</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000492</LineId> 
+      </Text>
+      <!-- Boosted Hint -->
+      <Text>
+          <Text>[PH] 16x Islands discovered PlaceholderText</Text>
+          <LineId>1600000493</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
 </ModOps>
