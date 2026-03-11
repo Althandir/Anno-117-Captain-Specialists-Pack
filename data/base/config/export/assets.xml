@@ -11,7 +11,7 @@
 #   1600000100 - 1600000103
 #   1600000228 - 1600000229
 #   1600000488 - 1600000490 
-#
+#   1600000491 - 1600000493
 #
 ###
 -->
@@ -32,7 +32,7 @@
 <!-- Rare Specialists -->
 <Group>
     <Include File="items-rare/CaptainMoreSlots-R.xml" />
-    <Include File="items-rare/CaptainHealthByLessSlots-R.xml"/>
+    <Include File="items-rare/CaptainLessSlots-R.xml"/>
 </Group>
 
 <!-- Epic Specialists -->
@@ -44,6 +44,7 @@
 <!-- Legendary Specialists -->
 <Group>
     <Include File="items-legendary/CaptainMoreSlots-L.xml" />
+    <Include File="items-legendary/CaptainLessSlots-L.xml" />
 </Group>
 
 <!-- Add to Pools -->

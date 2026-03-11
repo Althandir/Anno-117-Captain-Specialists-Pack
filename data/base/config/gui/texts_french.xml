@@ -16,7 +16,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist CaptainHealthByLessSlots-R -->
+  <!-- Specialist CaptainLessSlots-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -69,13 +69,34 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Corde solide</Text>
+          <Text>PlaceholderText</Text>
           <LineId>1600000228</LineId> <!-- <GUID>1600000228</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Une corde solide maintient ce navire à distance.</Text>
+          <Text>PlaceholderText</Text>
           <LineId>1600000229</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist CaptainMoreSlots-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000488</LineId> <!-- <GUID>1600000228</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000489</LineId> 
+      </Text>
+      <!-- Boosted Hint -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000490</LineId> 
       </Text>
     </ModOp>
   </Group>

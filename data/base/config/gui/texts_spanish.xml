@@ -16,7 +16,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist CaptainHealthByLessSlots-R -->
+  <!-- Specialist CaptainLessSlots-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->

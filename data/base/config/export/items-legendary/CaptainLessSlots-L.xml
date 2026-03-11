@@ -1,0 +1,186 @@
+<ModOps>
+<!-- Item Definition GUID: 1600000491 - 1600000493 | LineID:1600000491 - 1600000493 -->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>ItemWithBoost</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000491</GUID>
+            <Name>CaptainLessSlots-L</Name>
+            <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+            <InfoDescription>1600000492</InfoDescription>
+          </Standard>
+          <Effect>
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>1600000492</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff -->
+              <Item>
+                <GUID>38995</GUID>
+              </Item>
+            </Targets>
+            <HideInGovernorsBar>1</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Allocation>Ship</Allocation>
+            <Niche>Nautics</Niche> 
+            <ItemType>Captains</ItemType>
+            <TradePrice>500000</TradePrice>
+            <BarkPool>0</BarkPool> <!-- <GUID>0</GUID> -->
+            <Rarity>Legendary</Rarity> 
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>1600000491</OasisId>
+          </Text>
+
+          <ItemWithBoost>
+            <BoostCondition>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition/>
+                    <ConditionPlayerCounter>
+                      <PlayerCounter>IslandsDiscovered</PlayerCounter>
+                      <CounterAmount>16</CounterAmount>
+                    </ConditionPlayerCounter>
+                    <ConditionLocationProps/>
+                    <ConditionCounterProps/>
+                    <ConditionPropsComparable/>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+            </BoostCondition>
+            <BoostBuffs>
+              <Item>
+                <GUID>1600000493</GUID>
+              </Item>
+            </BoostBuffs>
+            <BoostHint>1600000493</BoostHint>
+          </ItemWithBoost>
+
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Buff Definitions-->
+  <Group>
+
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>ShipBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000492</GUID>
+                    <Name>CaptainLessSlots-L ShipBuff</Name>
+                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                </Standard>
+                <HealthUpgrade>
+                  <BaseHealthUpgrade>
+                    <Value>150</Value>
+                    <Percental>1</Percental>
+                  </BaseHealthUpgrade>
+                </HealthUpgrade>
+                <VehicleUpgrade/>
+                <TradeShipUpgrade>
+                </TradeShipUpgrade>
+                <Text>
+                    <OasisId>1600000491</OasisId>
+                </Text>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <MovementUpgrade>
+                  <BuffReduceNegativeWindImpactUpgrade>
+                    <Value>25</Value>
+                    <Percental>0</Percental>
+                  </BuffReduceNegativeWindImpactUpgrade>
+                  <BuffBaseSpeedUpgrade>
+                    <Value>5</Value>
+                    <Percental>0</Percental>
+                  </BuffBaseSpeedUpgrade>
+                </MovementUpgrade>
+                <MaintenanceUpgrade>
+                  <WorkforceMaintenanceFactorUpgrade>
+                    <Value>-25</Value>
+                    <Percental>1</Percental>    
+                  </WorkforceMaintenanceFactorUpgrade>
+                </MaintenanceUpgrade>
+                <UnitUpgrade/>
+                <ItemContainerUpgrade>
+                  <SlotCountUpgrade>
+                    <Value>-3</Value>
+                    <Percental>0</Percental>
+                  </SlotCountUpgrade>
+                </ItemContainerUpgrade>
+                <SellableUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>ShipBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000493</GUID>
+                    <Name>CaptainLessSlots-L Boosted ShipBuff</Name>
+                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                </Standard>
+                <HealthUpgrade>
+                  <BaseHealthUpgrade>
+                    <Value>200</Value>
+                    <Percental>1</Percental>
+                  </BaseHealthUpgrade>
+                </HealthUpgrade>
+                <VehicleUpgrade/>
+                <TradeShipUpgrade>
+                </TradeShipUpgrade>
+                <Text>
+                    <OasisId>1600000491</OasisId>
+                </Text>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <MovementUpgrade>
+                  <BuffReduceNegativeWindImpactUpgrade>
+                    <Value>75</Value>
+                    <Percental>0</Percental>
+                  </BuffReduceNegativeWindImpactUpgrade>
+                  <BuffBaseSpeedUpgrade>
+                    <Value>15</Value>
+                    <Percental>0</Percental>
+                  </BuffBaseSpeedUpgrade>
+                </MovementUpgrade>
+                <MaintenanceUpgrade>
+                  <WorkforceMaintenanceFactorUpgrade>
+                    <Value>-75</Value>
+                    <Percental>1</Percental>    
+                  </WorkforceMaintenanceFactorUpgrade>
+                </MaintenanceUpgrade>
+                <UnitUpgrade/>
+                <ItemContainerUpgrade>
+                  <SlotCountUpgrade>
+                    <Value>-3</Value>
+                    <Percental>0</Percental>
+                  </SlotCountUpgrade>
+                </ItemContainerUpgrade>
+                <SellableUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+
+  </Group>
+
+</ModOps>
