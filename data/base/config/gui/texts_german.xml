@@ -69,12 +69,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>Ausgebildeter Schiffsbogenschütze</Text>
           <LineId>1600000228</LineId> <!-- <GUID>1600000228</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>Wurde geschult auf hoher See zu treffen.</Text>
           <LineId>1600000229</LineId> 
       </Text>
     </ModOp>
@@ -85,7 +85,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>PlaceholderText, PlaceholderText</Text>
           <LineId>1600000488</LineId> <!-- <GUID>1600000228</GUID> -->
       </Text>
       <!-- Description -->
@@ -106,7 +106,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>PlaceholderText, PlaceholderText</Text>
           <LineId>1600000491</LineId> <!-- <GUID>1600000491</GUID> -->
       </Text>
       <!-- Description -->
