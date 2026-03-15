@@ -50,7 +50,7 @@
                     <Values>
                       <Condition/>
                       <ConditionTradeRouteCount>
-                        <TradeRouteCount>20</TradeRouteCount>
+                        <TradeRouteCount>24</TradeRouteCount>
                       </ConditionTradeRouteCount>
                     </Values>
                   </Condition>
@@ -138,7 +138,7 @@
                 <VehicleUpgrade/>
                 <TradeShipUpgrade>
                   <LoadingSpeedUpgrade>
-                    <Value>50</Value>
+                    <Value>100</Value>
                     <Percental>1</Percental>
                   </LoadingSpeedUpgrade>
                 </TradeShipUpgrade>
