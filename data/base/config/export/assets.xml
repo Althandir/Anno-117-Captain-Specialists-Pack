@@ -43,6 +43,11 @@
 <Include File="pools/AssetList/AssetListPool.xml" />
 <Include File="pools/RewardPool/AllItems&Specialists.xml" />
 
+<Include File="pools/RewardPool/Seafaring-C.xml" />
+<Include File="pools/RewardPool/Seafaring-R.xml" />
+<Include File="pools/RewardPool/Seafaring-E.xml" />
+<Include File="pools/RewardPool/Seafaring-L.xml" />
+
 <!-- Add to Traderpools --> 
 <Include File="pools/Traders/pools-common.xml" />
 <Include File="pools/Traders/pools-rare.xml" />

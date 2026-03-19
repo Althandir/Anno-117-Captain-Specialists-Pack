@@ -1,0 +1,15 @@
+<ModOps>
+<!-- Add to RewardPools -->
+<!-- RewardList Seafaring Epic -->
+<Group>
+    <ModOp Type="add" GUID="121897" Path="/Values/RewardPool/ItemsPool">
+    <Item>
+        <ItemLink>1600000102</ItemLink>
+    </Item> 
+    <Item>
+        <ItemLink>1600000100</ItemLink>
+    </Item> 
+    </ModOp>
+</Group>
+
+</ModOps>
