@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000228</GUID>
             <Name>CaptainArcherRange-C</Name>
-            <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+            <IconFilename>data/base/graphics/icons/r_male_ArcherRangeC.png</IconFilename>
             <InfoDescription>1600000229</InfoDescription>
           </Standard>
           <Effect>
@@ -46,7 +46,7 @@
 
   <!-- Buff Definitions-->
   <Group>
-    <!-- BuildingEffect Definition -->
+    
     <ModOp Type="addNextSibling" GUID="80193">
         <Asset>
             <Template>ShipBuff</Template>
@@ -54,7 +54,7 @@
                 <Standard>
                     <GUID>1600000229</GUID>
                     <Name>CaptainArcherRange-C ShipBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/r_male_ArcherRangeC.png</IconFilename>
                 </Standard>
                 <HealthUpgrade>
                   <BaseHealthUpgrade>
@@ -86,7 +86,12 @@
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
-                <UnitUpgrade/>
+                <UnitUpgrade>
+                  <DistanceAttackRangeArcherModulePercentualUpgrade>
+                    <Value>15</Value>
+                    <Percental>0</Percental>
+                  </DistanceAttackRangeArcherModulePercentualUpgrade>
+                </UnitUpgrade>
                 <ItemContainerUpgrade>
                   <SlotCountUpgrade>
                     <Value>0</Value>

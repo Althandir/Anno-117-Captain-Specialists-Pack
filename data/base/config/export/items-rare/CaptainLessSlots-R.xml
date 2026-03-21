@@ -7,8 +7,8 @@
         <Values>
           <Standard>
             <GUID>1600000224</GUID>
-            <Name>CaptainHealthByLessSlots-R</Name>
-            <IconFilename>data/base/graphics/icons/roman_female_CaptainHealthByLessSlots.png</IconFilename>
+            <Name>CaptainLessSlots-R</Name>
+            <IconFilename>data/base/graphics/icons/r_female_LessSlotsR.png</IconFilename>
             <InfoDescription>1600000225</InfoDescription>
           </Standard>
           <Effect>
@@ -46,15 +46,15 @@
 
   <!-- Buff Definitions-->
   <Group>
-    <!-- BuildingEffect Definition -->
+    
     <ModOp Type="addNextSibling" GUID="80193">
         <Asset>
             <Template>ShipBuff</Template>
             <Values>
                 <Standard>
                     <GUID>1600000225</GUID>
-                    <Name>CaptainHealthByLessSlots-R ShipBuff</Name>
-                    <IconFilename>data/base/graphics/icons/roman_female_CaptainHealthByLessSlots.png</IconFilename>
+                    <Name>CaptainLessSlots-R ShipBuff</Name>
+                    <IconFilename>data/base/graphics/icons/r_female_LessSlotsR.png</IconFilename>
                 </Standard>
                 <HealthUpgrade>
                   <BaseHealthUpgrade>

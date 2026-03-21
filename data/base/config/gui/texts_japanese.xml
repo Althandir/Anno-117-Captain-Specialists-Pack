@@ -10,13 +10,13 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>"A little less armor here and who needs extra sails? We have cargo to ship and aren't sitting geese."</Text>
+          <Text>"We have cargo to ship and aren't sitting geese." &#xD;(Captains-Pack)</Text>
           <LineId>1600000030</LineId> 
       </Text>
     </ModOp>
   </Group>
 
-  <!-- Specialist CaptainHealthByLessSlots-R -->
+  <!-- Specialist CaptainLessSlots-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -26,7 +26,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Sacrifices storage space for more defense.</Text>
+          <Text>Sacrifices storage space for more defense. &#xD;(Captains-Pack)</Text>
           <LineId>1600000225</LineId> 
       </Text>
     </ModOp>
@@ -42,7 +42,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Swift and with an eagles eye is a force to be reckoned with.</Text>
+          <Text>Swift and with an eagles eye is a force to be reckoned with. &#xD;(Captains-Pack)</Text>
           <LineId>1600000101</LineId> 
       </Text>
     </ModOp>
@@ -58,8 +58,66 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Arranges armor and goods in such a way that everything appears larger and more formidable. And indeed becomes so.</Text>
+          <Text>Arranges armor and goods in such a way that everything appears larger and more formidable. And indeed becomes so. &#xD;(Captains-Pack)</Text>
           <LineId>1600000103</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist CaptainArcherRange-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Ship's archer</Text>
+          <LineId>1600000228</LineId> <!-- <GUID>1600000228</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>It's unclear whether he was trained to aim so well or if he's just drunk. &#xD;(Captains-Pack)</Text>
+          <LineId>1600000229</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist CaptainMoreSlots-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Iacobus Garibaldus, Imperial Purveyor</Text>
+          <LineId>1600000488</LineId> <!-- <GUID>1600000488</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>“All roads lead to Rome. And if one of those roads goes through the sea, then I'll take it!”&#xD;Optimizes your ship to deliver massive amounts of Talentum to their destinations. &#xD;(Captains-Pack)</Text>
+          <LineId>1600000489</LineId> 
+      </Text>
+      <!-- Boosted Hint -->
+      <Text>
+          <Text>He loves being deployed in busy parts of the world. (Own 24x Handelsrouten)</Text>
+          <LineId>1600000490</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist CaptainLessSlots-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Virodanna Cautia, Overcautious Captain</Text>
+          <LineId>1600000491</LineId> <!-- <GUID>1600000491</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>“Do we really have everything on board? Don't forget the fourth spare sail!”&#xD;Fill cargo spaces with additional maintenance supplies to avoid putting herself and her crew in danger. &#xD;(Captains-Pack)</Text>
+          <LineId>1600000492</LineId> 
+      </Text>
+      <!-- Boosted Hint -->
+      <Text>
+          <Text>She hates unfamiliar places. (16 Islands discovered)</Text>
+          <LineId>1600000493</LineId> 
       </Text>
     </ModOp>
   </Group>

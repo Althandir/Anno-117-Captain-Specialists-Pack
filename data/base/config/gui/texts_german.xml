@@ -10,13 +10,13 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>„Ein bisschen weniger Schutz hier und wer braucht schon zusätzliche Segel? Wir haben Fracht zu transportieren und sind keine sitzenden Gänse.“</Text>
+          <Text>„Wir haben Fracht zu transportieren und sind keine sitzenden Gänse.“ &#xD;(Captains-Pack)</Text>
           <LineId>1600000030</LineId> 
       </Text>
     </ModOp>
   </Group>
 
-  <!-- Specialist CaptainHealthByLessSlots-R -->
+  <!-- Specialist CaptainLessSlots-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -26,7 +26,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Opfert Stauraum für mehr Verteidigung.</Text>
+          <Text>Opfert Stauraum für mehr Verteidigung. &#xD;(Captains-Pack)</Text>
           <LineId>1600000225</LineId> 
       </Text>
     </ModOp>
@@ -42,7 +42,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Geschwind und mit dem Blick eines Adlers ist er eine Macht, mit der man rechnen sollte.</Text>
+          <Text>Geschwind und mit dem Blick eines Adlers ist er eine Macht, mit der man rechnen sollte. &#xD;(Captains-Pack)</Text>
           <LineId>1600000101</LineId> 
       </Text>
     </ModOp>
@@ -58,7 +58,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Reiht Panzerung und Waren so an, dass alles irgendwie größer und mächtiger aussieht. Und auch ist.</Text>
+          <Text>Reiht Panzerung und Waren so an, dass alles irgendwie größer und mächtiger aussieht. Und auch ist. &#xD;(Captains-Pack)</Text>
           <LineId>1600000103</LineId> 
       </Text>
     </ModOp>
@@ -69,15 +69,56 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Starkes Seil</Text>
+          <Text>Schiffsbogenschütze</Text>
           <LineId>1600000228</LineId> <!-- <GUID>1600000228</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Ein starkes Seil hält dieses Schiff in Schach.</Text>
+          <Text>Man weiß nicht ob er geschult wurde so gut zu treffen oder ob er einfach betrunken ist.&#xD;(Captains-Pack)</Text>
           <LineId>1600000229</LineId> 
       </Text>
     </ModOp>
   </Group>
 
+  <!-- Specialist CaptainMoreSlots-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Iacobus Garibaldus, Kaiserlicher Lieferant</Text>
+          <LineId>1600000488</LineId> <!-- <GUID>1600000488</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>"Alle Wege führen nach Rom. Und wenn ein Weg durchs Meer führt, dann gehe ich diesen!"&#xD;Optimiert dein Schiff um Massen von Talentum zu ihren Bestimmungsorten zu liefern. &#xD;(Captains-Pack)</Text>
+          <LineId>1600000489</LineId> 
+      </Text>
+      <!-- Boosted Hint -->
+      <Text>
+          <Text>Liebt es in viel befahrenen Regionen eingesetzt zu werden. (Besitze 24x Handelsrouten)</Text>
+          <LineId>1600000490</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist CaptainLessSlots-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Virodanna Cautia, Übervorsichtige Kapitänin</Text>
+          <LineId>1600000491</LineId> <!-- <GUID>1600000491</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>"Haben wir auch wirklich alles an Bord? Vergesst das vierte Ersatzsegel nicht!"&#xD;Füllt Frachtplätze mit zusätzlichen Wartungsmaterialien um Gefahren für sich und ihre Mannschaft abzuwenden. &#xD;(Captains-Pack)</Text>
+          <LineId>1600000492</LineId> 
+      </Text>
+      <!-- Boosted Hint -->
+      <Text>
+          <Text>Unbekannte Regionen sind ihr ein Graus. (16 Inseln entdeckt)</Text>
+          <LineId>1600000493</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
 </ModOps>

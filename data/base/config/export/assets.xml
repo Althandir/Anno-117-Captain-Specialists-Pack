@@ -10,20 +10,12 @@
 #   1600000224 - 1600000225
 #   1600000100 - 1600000103
 #   1600000228 - 1600000229
-#
-#
+#   1600000488 - 1600000490 
+#   1600000491 - 1600000493
 #
 ###
 -->
 <ModOps>
-
-<!-- Testing -->
-<Group>
-<!--
-<Include File="testing/pools-forceSpawnTesting.xml"/> 
--->
-</Group>
-
 <!-- Common Specialists -->
 <Group>
     <Include File="items-common/CaptainArcherRange-C.xml" />
@@ -32,7 +24,7 @@
 <!-- Rare Specialists -->
 <Group>
     <Include File="items-rare/CaptainMoreSlots-R.xml" />
-    <Include File="items-rare/CaptainHealthByLessSlots-R.xml"/>
+    <Include File="items-rare/CaptainLessSlots-R.xml"/>
 </Group>
 
 <!-- Epic Specialists -->
@@ -43,12 +35,18 @@
 
 <!-- Legendary Specialists -->
 <Group>
-
+    <Include File="items-legendary/CaptainMoreSlots-L.xml" />
+    <Include File="items-legendary/CaptainLessSlots-L.xml" />
 </Group>
 
 <!-- Add to Pools -->
 <Include File="pools/AssetList/AssetListPool.xml" />
-<Include File="pools/RewardPool/RewardPool-AllItems&Specialists.xml" />
+<Include File="pools/RewardPool/AllItems&Specialists.xml" />
+
+<Include File="pools/RewardPool/Seafaring-C.xml" />
+<Include File="pools/RewardPool/Seafaring-R.xml" />
+<Include File="pools/RewardPool/Seafaring-E.xml" />
+<Include File="pools/RewardPool/Seafaring-L.xml" />
 
 <!-- Add to Traderpools --> 
 <Include File="pools/Traders/pools-common.xml" />
