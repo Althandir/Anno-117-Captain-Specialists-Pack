@@ -69,12 +69,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>Ship's archer</Text>
           <LineId>1600000228</LineId> <!-- <GUID>1600000228</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText &#xD;(Captains-Pack)</Text>
+          <Text>It's unclear whether he was trained to aim so well or if he's just drunk. &#xD;(Captains-Pack)</Text>
           <LineId>1600000229</LineId> 
       </Text>
     </ModOp>
@@ -85,17 +85,17 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>Iacobus Garibaldus, Imperial Purveyor</Text>
           <LineId>1600000488</LineId> <!-- <GUID>1600000488</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText &#xD;(Captains-Pack)</Text>
+          <Text>“All roads lead to Rome. And if one of those roads goes through the sea, then I'll take it!”&#xD;Optimizes your ship to deliver massive amounts of Talentum to their destinations. &#xD;(Captains-Pack)</Text>
           <LineId>1600000489</LineId> 
       </Text>
       <!-- Boosted Hint -->
       <Text>
-          <Text>[PH] Own 24x Traderoutes PlaceholderText</Text>
+          <Text>He loves being deployed in busy parts of the world. (Own 24x Handelsrouten)</Text>
           <LineId>1600000490</LineId> 
       </Text>
     </ModOp>
@@ -106,17 +106,17 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>Virodanna Cautia, Overcautious Captain</Text>
           <LineId>1600000491</LineId> <!-- <GUID>1600000491</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText &#xD;(Captains-Pack)</Text>
+          <Text>“Do we really have everything on board? Don't forget the fourth spare sail!”&#xD;Fill cargo spaces with additional maintenance supplies to avoid putting herself and her crew in danger. &#xD;(Captains-Pack)</Text>
           <LineId>1600000492</LineId> 
       </Text>
       <!-- Boosted Hint -->
       <Text>
-          <Text>[PH] 16x Islands discovered PlaceholderText</Text>
+          <Text>She hates unfamiliar places. (16 Islands discovered)</Text>
           <LineId>1600000493</LineId> 
       </Text>
     </ModOp>
