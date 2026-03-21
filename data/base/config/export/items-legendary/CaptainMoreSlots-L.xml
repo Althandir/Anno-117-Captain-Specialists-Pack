@@ -105,7 +105,11 @@
                   <BuffReduceCargoImpactUpgrade>
                     <Value>25</Value>
                     <Percental>0</Percental>
-                  </BuffReduceCargoImpactUpgrade>
+                  </BuffReduceCargoImpactUpgrade>			
+                  <BuffTransferSpeedUpgrade>
+                    <Value>10</Value>
+                    <Percental>1</Percental>
+                  </BuffTransferSpeedUpgrade>
                 </MovementUpgrade>
                 <MaintenanceUpgrade/>
                 <UnitUpgrade/>
@@ -150,9 +154,13 @@
                 </Buff>
                 <MovementUpgrade>
                   <BuffReduceCargoImpactUpgrade>
-                    <Value>50</Value>
+                    <Value>75</Value>
                     <Percental>0</Percental>
                   </BuffReduceCargoImpactUpgrade>
+                  <BuffTransferSpeedUpgrade>
+                    <Value>25</Value>
+                    <Percental>1</Percental>
+                  </BuffTransferSpeedUpgrade>
                 </MovementUpgrade>
                 <MaintenanceUpgrade/>
                 <UnitUpgrade/>
