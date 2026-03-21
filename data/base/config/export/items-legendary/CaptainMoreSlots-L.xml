@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000488</GUID>
             <Name>CaptainMoreSlots-L</Name>
-            <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+            <IconFilename>data/base/graphics/icons/c_male_MoreSlotsL.png</IconFilename>
             <InfoDescription>1600000489</InfoDescription>
           </Standard>
           <Effect>
@@ -80,7 +80,7 @@
                 <Standard>
                     <GUID>1600000489</GUID>
                     <Name>CaptainMoreSlots-L ShipBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/c_male_MoreSlotsL.png</IconFilename>
                 </Standard>
                 <HealthUpgrade>
                   <BaseHealthUpgrade>
@@ -127,7 +127,7 @@
                 <Standard>
                     <GUID>1600000490</GUID>
                     <Name>CaptainMoreSlots-L Boosted ShipBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/c_male_MoreSlotsL.png</IconFilename>
                 </Standard>
                 <HealthUpgrade>
                   <BaseHealthUpgrade>

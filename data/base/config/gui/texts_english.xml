@@ -10,7 +10,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>"We have cargo to ship and aren't sitting geese."</Text>
+          <Text>"We have cargo to ship and aren't sitting geese." &#xD;(Captains-Pack)</Text>
           <LineId>1600000030</LineId> 
       </Text>
     </ModOp>
@@ -26,7 +26,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Sacrifices storage space for more defense.</Text>
+          <Text>Sacrifices storage space for more defense. &#xD;(Captains-Pack)</Text>
           <LineId>1600000225</LineId> 
       </Text>
     </ModOp>
@@ -42,7 +42,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Swift and with an eagles eye is a force to be reckoned with.</Text>
+          <Text>Swift and with an eagles eye is a force to be reckoned with. &#xD;(Captains-Pack)</Text>
           <LineId>1600000101</LineId> 
       </Text>
     </ModOp>
@@ -58,7 +58,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Arranges armor and goods in such a way that everything appears larger and more formidable. And indeed becomes so.</Text>
+          <Text>Arranges armor and goods in such a way that everything appears larger and more formidable. And indeed becomes so. &#xD;(Captains-Pack)</Text>
           <LineId>1600000103</LineId> 
       </Text>
     </ModOp>
@@ -74,7 +74,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>PlaceholderText &#xD;(Captains-Pack)</Text>
           <LineId>1600000229</LineId> 
       </Text>
     </ModOp>
@@ -90,7 +90,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>PlaceholderText &#xD;(Captains-Pack)</Text>
           <LineId>1600000489</LineId> 
       </Text>
       <!-- Boosted Hint -->
@@ -111,7 +111,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>PlaceholderText &#xD;(Captains-Pack)</Text>
           <LineId>1600000492</LineId> 
       </Text>
       <!-- Boosted Hint -->

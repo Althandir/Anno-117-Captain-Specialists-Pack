@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000491</GUID>
             <Name>CaptainLessSlots-L</Name>
-            <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+            <IconFilename>data/base/graphics/icons/c_female_LessSlotsL.png</IconFilename>
             <InfoDescription>1600000492</InfoDescription>
           </Standard>
           <Effect>
@@ -84,7 +84,7 @@
                 <Standard>
                     <GUID>1600000492</GUID>
                     <Name>CaptainLessSlots-L ShipBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/c_female_LessSlotsL.png</IconFilename>
                 </Standard>
                 <HealthUpgrade>
                   <BaseHealthUpgrade>
@@ -107,7 +107,7 @@
                     <Percental>0</Percental>
                   </BuffReduceNegativeWindImpactUpgrade>
                   <BuffBaseSpeedUpgrade>
-                    <Value>5</Value>
+                    <Value>10</Value>
                     <Percental>0</Percental>
                   </BuffBaseSpeedUpgrade>
                 </MovementUpgrade>
@@ -136,7 +136,7 @@
                 <Standard>
                     <GUID>1600000493</GUID>
                     <Name>CaptainLessSlots-L Boosted ShipBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/c_female_LessSlotsL.png</IconFilename>
                 </Standard>
                 <HealthUpgrade>
                   <BaseHealthUpgrade>
@@ -159,7 +159,7 @@
                     <Percental>0</Percental>
                   </BuffReduceNegativeWindImpactUpgrade>
                   <BuffBaseSpeedUpgrade>
-                    <Value>15</Value>
+                    <Value>20</Value>
                     <Percental>0</Percental>
                   </BuffBaseSpeedUpgrade>
                 </MovementUpgrade>
