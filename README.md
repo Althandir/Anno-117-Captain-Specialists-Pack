@@ -4,8 +4,6 @@ This mod adds Specialist focused on Ships into Anno 117. This Mod is part as a s
 ### Item Overview (AI Generated - Might contain Issues. Please point them out if you find some)
 ***
 
-***
-
 ### Common Rarity Specialists
 | Image Preview | GUID | Internal Name | Item name (Title) | Description | Base/Standard Effects |
 | :---: | :---: | :---: | :--- | :--- | :--- |
