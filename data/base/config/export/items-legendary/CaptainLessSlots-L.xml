@@ -30,7 +30,7 @@
             <Niche>Nautics</Niche> 
             <ItemType>Captains</ItemType>
             <TradePrice>500000</TradePrice>
-            <BarkPool>0</BarkPool> <!-- <GUID>0</GUID> -->
+            <BarkPool>90849</BarkPool> <!-- <GUID>90849</GUID> -->
             <Rarity>Legendary</Rarity> 
           </Item>
           <Locked>
