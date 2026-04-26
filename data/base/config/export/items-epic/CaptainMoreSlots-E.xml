@@ -29,7 +29,7 @@
             <Allocation>Ship</Allocation>
             <Niche>Nautics</Niche> 
             <ItemType>Captains</ItemType>
-            <TradePrice>60000</TradePrice>
+            <TradePrice><ModValue Insert="$TradePrice_Epic"/></TradePrice>
             <BarkPool>83318</BarkPool> <!-- <GUID>83318</GUID> -->
             <Rarity>Epic</Rarity> 
           </Item>
