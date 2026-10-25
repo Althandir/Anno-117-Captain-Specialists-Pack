@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000491</GUID>
             <Name>CaptainLessSlots-L</Name>
-            <IconFilename>data/base/graphics/icons/c_female_LessSlotsL.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Captains-Pack/c_female_LessSlotsL.png</IconFilename>
             <InfoDescription>1600000492</InfoDescription>
           </Standard>
           <Effect>
@@ -84,7 +84,7 @@
                 <Standard>
                     <GUID>1600000492</GUID>
                     <Name>CaptainLessSlots-L ShipBuff</Name>
-                    <IconFilename>data/base/graphics/icons/c_female_LessSlotsL.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Captains-Pack/c_female_LessSlotsL.png</IconFilename>
                 </Standard>
                 <HealthUpgrade>
                   <BaseHealthUpgrade>
@@ -136,7 +136,7 @@
                 <Standard>
                     <GUID>1600000493</GUID>
                     <Name>CaptainLessSlots-L Boosted ShipBuff</Name>
-                    <IconFilename>data/base/graphics/icons/c_female_LessSlotsL.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Captains-Pack/c_female_LessSlotsL.png</IconFilename>
                 </Standard>
                 <HealthUpgrade>
                   <BaseHealthUpgrade>

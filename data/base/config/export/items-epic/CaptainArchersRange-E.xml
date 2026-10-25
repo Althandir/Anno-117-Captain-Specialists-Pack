@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000100</GUID>
             <Name>Captain ArchersRange-E</Name>
-            <IconFilename>data/base/graphics/icons/c_male_ArcherRangeE.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Captains-Pack/c_male_ArcherRangeE.png</IconFilename>
             <InfoDescription>1600000101</InfoDescription>
           </Standard>
           <Effect>
@@ -54,7 +54,7 @@
                 <Standard>
                     <GUID>1600000101</GUID>
                     <Name>Captain ArchersRange-E ShipBuff</Name>
-                    <IconFilename>data/base/graphics/icons/c_male_ArcherRangeE.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Captains-Pack/c_male_ArcherRangeE.png</IconFilename>
                 </Standard>
                 <HealthUpgrade/>
                 <VehicleUpgrade/>
