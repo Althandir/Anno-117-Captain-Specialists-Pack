@@ -4,25 +4,25 @@
 <Group>
     <ModOp Type="add" GUID="113059" Path="/Values/AssetPool/AssetList">
     <Item>
-        <ItemLink>1600000029</ItemLink>
+        <Asset>1600000029</Asset>
     </Item>
     <Item>
-        <ItemLink>1600000100</ItemLink>
+        <Asset>1600000100</Asset>
     </Item>
     <Item>
-        <ItemLink>1600000102</ItemLink>
+        <Asset>1600000102</Asset>
     </Item>
     <Item>
-        <ItemLink>1600000224</ItemLink>
+        <Asset>1600000224</Asset>
     </Item>
     <Item>
-        <ItemLink>1600000228</ItemLink>
+        <Asset>1600000228</Asset>
     </Item>
     <Item>
-        <ItemLink>1600000488</ItemLink>
+        <Asset>1600000488</Asset>
     </Item>
     <Item>
-        <ItemLink>1600000491</ItemLink>
+        <Asset>1600000491</Asset>
     </Item>
     </ModOp>
 </Group>
