@@ -32,7 +32,7 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist CaptainArchersRange-E -->
+  <!-- Specialist CaptainArcherRange-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
